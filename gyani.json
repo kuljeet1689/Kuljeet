@@ -1,17 +1,16 @@
 {
   "matching_urls": [
-    "https://t9jalw7.com/#/wallet",
-    "https://t9jalw7.com/#/wallet/recharge",
-    "https://t9jalw7.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://t9jalw7.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://t9jalw7.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://t9jalw7.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://13lwin3.com/wallet/recharge",
+    "https://13lwin3.com/wallet/recharge",
+    "https://13lwin3.com/WinGo/WinGo_30S",
+    "https://13lwin3.com/WinGo/WinGo_1M",
+    "https://13lwin3.com/WinGo/WinGo_3M",
+    "https://13lwin3.com/WinGo/WinGo_5M"
   ],
-  "deposit_url": "https://t9jalw7.com/#/wallet",
-  "login_url": "https://t9jalw7.com/#/login",
-  "register_url": "https://t9jalw7.com/#/register?invitationCode=683313180814",
-  "telegram_url": "https://t.me/+uBrmUhzc3s40ZjA1",
-  "home_url": "https://t9jalw7.com/#/",
+  "deposit_url": "https://13lwin3.com/wallet/recharge",
+  "login_url": "https://13lwin3.com/login",
+  "register_url": "https://13lwin3.com/register?inviteCode=JY429EN&from=web",
+  "telegram_url": "https://t.me/+Y_M8bUYIRVE4NTM9",
+  "home_url": "https://13lwin3.com/",
   "minimum_deposit": 200,
-  "minimum_deposit_number": 200
-}
+  "minimum_deposit": 200,
